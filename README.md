@@ -1,5 +1,5 @@
 # Feature-Based Occupancy Map-Merging for Collaborative SLAM
-When given two overlapping 2D occupancy grid maps, the map-merging establishes an association between the individual maps and fuses them to construct a global map of the environment. This repo presents a map fusion approach based on image key points implemented in Matlab. The figure below gives an overview.
+Given two overlapping 2D occupancy grid maps, the map-fusion algorithm establishes an association between the individual maps and fuses them to construct a global map of the environment. This repo presents a map fusion approach based on image key points implemented in Matlab. The figure below gives an overview.
  
 ![Overview](Resources/overview.png)
 
